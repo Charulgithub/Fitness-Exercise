@@ -91,7 +91,7 @@ This project was built using  Html, Css, Material UI, React (18.2.0), RapidAPI. 
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/Niteshmeena9672/Fitness-Exercises-App) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/Charulgithub/Fitness-Exercise) or just clone the project using this command. 
 
 
 ```
@@ -152,8 +152,8 @@ npm start
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Nitesh_Meena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-meena-2512a6212/)
-[![Github](https://img.shields.io/badge/Nitesh_Meena-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Niteshmeena9672)
+[![linkedin](https://img.shields.io/badge/Nitesh_Meena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charulshaharey/)
+[![Github](https://img.shields.io/badge/Nitesh_Meena-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Charulgithub)
 
 © 2024 Nitesh Meena.
 
